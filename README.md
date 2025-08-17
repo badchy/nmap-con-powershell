@@ -1,4 +1,4 @@
-# Script de Escaneo de Puertos con PowerShell
+# Escaneo de Puertos con PowerShell
 
 ## 🛡️ Descripción
 
