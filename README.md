@@ -27,3 +27,6 @@ Este es un **script de PowerShell** para el **escaneo de puertos TCP**. Diseñad
 4.  Ejecuta el script utilizando uno de los siguientes ejemplos.
 5.  Enjoy!
 
+## ⭐ Califica
+
+Si te sirvió, no olvides dejar tu estrella al proyecto en la parte superior derecha. ¡Gracias!
