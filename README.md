@@ -24,8 +24,7 @@ Este es un **script de PowerShell** para el **escaneo de puertos TCP**. Diseñad
 1.  Descarga el archivo `nmap with powershell.ps1`.
 2.  Recomiendo abrir Windows PowerShell ISE y pegar el contenido del ps1 en un nuevo documento para evitar problemas por ejecutar archivos descargados de internet
 3.  No olvides de definir el path del archivo `puertos.txt` en una ruta correcta.
-4.  Ejecuta el script utilizando uno de los siguientes ejemplos.
-5.  Enjoy!
+4.  Enjoy!
 
 ## ⭐ Califica
 
